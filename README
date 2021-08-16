@@ -1,0 +1,11 @@
+Change the var "theURL" to your Websites URL you want to use.  
+The var is in the File:  
+source\app\src\main\java\com\bugfish\webapp\MainActivity.java  
+  
+  
+If this is needed, change the Image of the App, by replacing the image files in:  
+source\app\src\main\res\  
+  
+If needed, change to Gradle App-ID in the Gradle Files.  
+If you make 2 webapps with the same AppID, one will be installed if you try to install  
+them simultanously on devices.  
