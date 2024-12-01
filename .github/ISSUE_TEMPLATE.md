@@ -5,5 +5,3 @@ Issues & Features:
 - Add relevant Software / Server or Device Information to solve your issue.
 
 Any questions should be directed to @bugfishtm.
-
-🐟 Bugfish <3

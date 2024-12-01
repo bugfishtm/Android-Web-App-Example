@@ -10,5 +10,3 @@ Please check your request:
 3. Your commit messages are detailed.
 
 Any questions should be directed to @bugfishtm.
-
-🐟 Bugfish <3
