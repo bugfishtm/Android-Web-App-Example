@@ -25,3 +25,5 @@ Simplify the creation of Android WebView apps with this ready-to-use Android Stu
 - This is the final release as this is a template project with no further enhancements planned.
 - The project remains open source under the GPLv3 License.
 - Continued support will be available for user inquiries.
+
+🐟 Bugfish <3
