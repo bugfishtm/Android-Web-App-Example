@@ -1,0 +1,4 @@
+com/bugfish/webapp/MainActivity.java
+ com.bugfish.webapp.MainActivity
+com/bugfish/webapp/BuildConfig.java
+ com.bugfish.webapp.BuildConfig
